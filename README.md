@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# ToDoList - Structure
+# LeaderBoard - Structure
 
 > In this project, you will see a simple use of CSS and HTML used to create a LeaderBoard, This simple web page was built using webpack and served by a webpack dev server.
 
