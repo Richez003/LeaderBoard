@@ -1,0 +1,82 @@
+body {
+    padding: 0;
+    background-color: rgb(236, 228, 228);
+}
+
+main {
+    display: flex;
+}
+
+.result {
+    width: 100%;
+    padding: 0;
+    margin-left: 10rem;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.scores {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .scores button {
+    box-shadow: 0 6px 10px 0 black;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 5px; 
+  }
+
+  .rel-list {
+    border: 3px solid black;
+  }
+
+ .add {
+     margin-right: 20rem;
+     padding: 2rem;
+ }
+
+ .add h2 {
+    margin-left: 1rem;
+ }
+
+ h1 {
+     display: flex;
+justify-content: center;
+ }
+
+ .list2,
+ .list1 {
+   padding: 10px;
+   font-weight: 800;
+ }
+ 
+ .list2 {
+    background-color: #fff;
+ }
+
+ form {
+    width: 100%;
+ }
+
+ form input {
+    border: 3px solid black;
+    margin: 10px;
+    padding: 10px;
+ }
+
+form button {
+    justify-content: end;
+    cursor: pointer;
+    box-shadow: 0 6px 10px 0 black;
+    margin-left: 9rem;
+    background-color: #fff;
+    padding: 5px;
+
+}
+
+
+
+
+
