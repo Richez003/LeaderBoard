@@ -15,7 +15,7 @@
 ### Install
 
 Clone the repository
-https://github.com/Richez003/TODoList
+https://github.com/Richez003/LeaderBoard
 npm . init -y
 npm install
 
