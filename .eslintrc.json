@@ -20,12 +20,6 @@
     },
     "ignorePatterns": [
       "dist/",
-      "build/",
-      "/webpack.config.js",
-      "app.js",
-      "addScore.js",
-      "postScore.js",
-      "getScores.js",
-      "index.js"
+      "build/"
     ]
   }
