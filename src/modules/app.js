@@ -18,10 +18,10 @@ refreshButton.addEventListener('click', async () => {
   try {
     userScores = await getScores();
     promptMessage.classList.toggle('success');
-    promptMessage.textContent = 'List has been updated successfully';
+    promptMessage.textContent = 'updated successfully';
   } catch (e) {
     promptMessage.classList.toggle('fail');
-    promptMessage.textContent = 'Something went wrong while updating the list';
+    promptMessage.textContent = 'Something went wrong';
     return `Error! ${e}`;
   }
   if (userScores.result.length > 0) {
